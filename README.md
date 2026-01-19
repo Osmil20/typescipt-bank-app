@@ -5,7 +5,7 @@
 
 Sistema bancário em TypeScript utilizando conceitos de Programação Orientada a Objetos (POO).
 
-![Diagrama das classes do projeto](assets/captura.png)
+![Diagrama das classes do projeto](./captura.png)
 
 ## Tecnologias
 
@@ -13,7 +13,7 @@ Sistema bancário em TypeScript utilizando conceitos de Programação Orientada 
 - Node.js
 
 ## Estrutura do projeto
-![Diagrama das classes do projeto](assets/inter.png)
+![Diagrama das classes do projeto](./inter.png)
 
 ## Funcionalidades
 
