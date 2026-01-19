@@ -5,23 +5,15 @@
 
 Sistema bancário em TypeScript utilizando conceitos de Programação Orientada a Objetos (POO).
 
+![Diagrama das classes do projeto](assets/captura.png)
+
 ## Tecnologias
 
 - TypeScript
 - Node.js
 
 ## Estrutura do projeto
-
-dio-bank-system/
-├─ class/                # Todas as classes
-│   ├─ DioAccount.ts
-│   ├─ PeopleAccount.ts
-│   ├─ CompanyAccount.ts
-│   └─ BonusAccount.ts
-├─ app.ts                # Arquivo principal com instâncias e testes
-├─ tsconfig.json         # Config TypeScript
-├─ package.json          # Info do projeto
-└─ README.md             # Descrição do projeto
+![Diagrama das classes do projeto](assets/inter.png)
 
 ## Funcionalidades
 
